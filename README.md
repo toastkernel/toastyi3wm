@@ -16,3 +16,10 @@ If you're looking for the same terminal + launcher setup:
 
 - [`tinyopsec/st`](https://github.com/tinyopsec/st)
 - [`tinyopsec/tmenu`](https://github.com/tinyopsec/tmenu)
+
+`black. white. tiled. enough.`
+┌──────────────────────────────────────┐
+│                                      │
+│       minimal • monochrome • i3      │
+│                                      │
+└──────────────────────────────────────┘
