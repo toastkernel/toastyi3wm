@@ -10,9 +10,9 @@
 
 I use **st** and **tmenu** from [@tinyopsec](https://github.com/tinyopsec).
 
-They're a good fit for this setup because they're **small, minimal, and don't bring a bunch of extra UI baggage** with them.
+They're a good fit for this setup because they're **small, minimal, and don't bring a bunch of UI slop** with them.
 
 If you're looking for the same terminal + launcher setup:
 
-- [`tinyopsec/st`](https://github.com/tinyopsec/st-patched)
+- [`tinyopsec/st-patched`](https://github.com/tinyopsec/st-patched)
 - [`tinyopsec/tmenu`](https://github.com/tinyopsec/tmenu)
