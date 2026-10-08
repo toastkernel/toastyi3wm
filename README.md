@@ -14,5 +14,5 @@ They're a good fit for this setup because they're **small, minimal, and don't br
 
 If you're looking for the same terminal + launcher setup:
 
-- [`tinyopsec/st`](https://github.com/tinyopsec/st)
+- [`tinyopsec/st`](https://github.com/tinyopsec/st-patched)
 - [`tinyopsec/tmenu`](https://github.com/tinyopsec/tmenu)
